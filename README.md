@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm maudy</h1>
-<h3 align="center">A passionate UI/UX Designer,Web Designer,frontend developer from Indonesia</h3>
+<h3 align="center">A passionate UI/UX Designer,Web Designer,frontend development from Indonesia</h3>
 
 - 🔭 I’m currently working on **SMK Telkom Sidoarjo**
 
